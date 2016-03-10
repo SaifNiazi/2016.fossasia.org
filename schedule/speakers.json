@@ -645,9 +645,9 @@
     "twitter": "",
     "linkedin": "",
     "id": 50,
-    "photo": "",
-    "organisation": "Barclays",
-    "biography": "Saif Niazi is a data analyst in Barclays. Interest also include Hadoop, Big data, statistics and data mining."
+    "photo": "https://www.facebook.com/photo.php?fbid=10203238210903479&set=a.1534559611334.2069139.1455124663&type=3&theater",
+    "organisation": "None",
+    "biography": "Saif Niazi is a data analyst. Interest also include Hadoop, Big data, statistics and data mining."
   },
   {
     "py/object": "models.Speaker",
